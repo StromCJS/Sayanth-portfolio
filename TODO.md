@@ -1,0 +1,1 @@
+# TODO: Update Work.tsx with new images from public/images/\n\n1. [ ] Create TODO.md with steps\n2. [ ] Update projects array in Work.tsx with new image paths\n3. [ ] Verify changes\n4. [ ] Mark complete and attempt_completion

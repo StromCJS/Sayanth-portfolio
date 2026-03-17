@@ -19,9 +19,9 @@
   z-index: 9;
 }
 .what-box h2 {
-  font-size: calc(4vw + 25px);
-  line-height: calc(4vw + 20px);
-  font-weight: 600;
+  font-size: calc(4.5vw + 28px);
+  line-height: calc(4.5vw + 24px);
+  font-weight: 700;
   margin-right: 10%;
   margin-bottom: 100px;
 }
@@ -63,15 +63,15 @@
   padding: 10px 50px;
 }
 .what-content h3 {
-  font-size: 35px;
-  letter-spacing: 1px;
+  font-size: 40px;
+  letter-spacing: 2px;
   margin: 0;
 }
 .what-content p {
-  font-size: 14px;
-  line-height: 18px;
-  font-weight: 200;
-  letter-spacing: 0.7px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 300;
+  letter-spacing: 1px;
 }
 .what-content h4 {
   font-weight: 300;
@@ -164,7 +164,7 @@
 }
 .what-noTouch:hover .what-arrow::before,
 .what-content-active .what-arrow::before {
-  transform: translate(-50%, -20%) rotate(-225deg);
+  transform: translate(-50%, -20%) rotate(-225deg) !important;
 }
 .what-border1 {
   position: absolute;
